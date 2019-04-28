@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1458034357 source:f:\code block\gamma_detector\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+
